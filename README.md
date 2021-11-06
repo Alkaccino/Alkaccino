@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Alkaccino (Alkan Hühne)
 - 👀 I’m interested in Game Development, Web Development and 3D-Modeling
-- 🌱 I’m currently learning C# (mostly for Game Development) and Javascript (for Web Development)
+- 🌱 I’m currently learning C# (mostly for Game Development) and JavaScript (for Web Development)
 - 💬 I speak German (native) and English (not perfectly)
